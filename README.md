@@ -6,9 +6,9 @@ In this guide, we'll walk through the steps to run a Python application with a r
 
 Clone the repository from GitHub:
 ```sh
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/Sypher1k/telegram-repacket-groups.git
 
-cd REPO_NAME
+cd telegram-repacket-groups
 ```
 ## Step 2: Create and Activate Virtual Environment
 Create a virtual environment:
