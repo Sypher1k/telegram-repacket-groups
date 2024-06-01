@@ -39,6 +39,16 @@ This command will generate a single executable file in the dist directory.
 
 PyInstaller Command Options:
 * --onefile: Pack everything into a single executable.
+
+Configuration
+All configuration settings are stored in the config.ini file. Update this file with the necessary settings before running the application.
+
+Example config.ini:
+```
+[settings]
+key1 = value1
+key2 = value2
+```
 ## Conclusion
 Following these steps, you can easily run a Python application with required virtual environment and publish it as an executable using PyInstaller.
 
